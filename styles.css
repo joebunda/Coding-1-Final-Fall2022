@@ -1,0 +1,18 @@
+h1 {
+    font-style: oblique;
+    color: blueviolet;
+    font-size: 300%;
+}
+
+p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 120%;
+    color: darkslategrey;
+}
+
+ul {
+    font-weight: bold;
+    color: cornflowerblue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 105%;
+}
